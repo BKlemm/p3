@@ -1,5 +1,5 @@
 //
-//  main.c
+//  a8.c
 //  P3
 //
 //  Created by Björn Klemm on 04.11.18.
@@ -7,9 +7,3 @@
 //
 
 #include <stdio.h>
-
-
-int main(int argc, const char * argv[]) {
-    
-    return 0;
-}
